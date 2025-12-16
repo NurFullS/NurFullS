@@ -3,7 +3,7 @@
 🔥 Мои ключевые навыки:
 Frontend: HTML, CSS, JavaScript/TypeScript, React, Next.js, Tailwind CSS
 
-Backend: Java, Node.js
+Backend: Java - Spring-Boot
 
 Базы данных: SQL
 
