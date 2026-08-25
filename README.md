@@ -2,8 +2,8 @@
 
 🔥 **My Key Skills:**  
 **Frontend:** HTML, CSS, JavaScript/TypeScript, React, Next.js, Tailwind CSS  
-**Backend:** Java - Spring Boot  
-**Databases:** SQL  
+**Backend:** Java - Spring Boot  Node.js - Nest
+**Databases:** SQL  - Hibernate, Prisma, R2
 
 🔨 **Tools:**  
 Git/GitHub, Postman, Terminal, WakaTime, DevTools  
